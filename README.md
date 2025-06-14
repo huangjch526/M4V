@@ -7,7 +7,7 @@
 Jiancheng Huang<sup>1</sup>, Gengwei Zhang<sup>2</sup>, ZEQUN JIE<sup>1</sup>,Siyu Jiao<sup>3</sup>, Yinlong Qian<sup>1</sup>, Ling Chen<sup>2</sup>,  
 Yunchao Wei<sup>3</sup>, Lin Ma<sup>1</sup>
 
-<sup>1</sup> Meituan BJTU, <sup>2</sup> UTS, <sup>3</sup> BJTU
+<sup>1</sup> Meituan, <sup>2</sup> UTS, <sup>3</sup> BJTU
 
 
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2506.10915-b31b1b.svg)](https://arxiv.org/abs/2506.10915)&nbsp;
