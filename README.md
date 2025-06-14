@@ -18,7 +18,7 @@ Yunchao Wei<sup>3</sup>, Lin Ma<sup>1</sup>
 </div>
 
 <div align="center">
-<img src="resources/abs.png" width="958%">
+<img src="abs.png" width="958%">
 </div>
 
 ## Introduction
